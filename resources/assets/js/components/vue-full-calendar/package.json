@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-full-calendar",
+        "scope": null,
+        "escapedName": "vue-full-calendar",
+        "name": "vue-full-calendar",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Applications/MAMP/htdocs/bettergoals.dev"
+    ]
+  ],
+  "_from": "vue-full-calendar@latest",
+  "_id": "vue-full-calendar@1.0.0",
+  "_inCache": true,
+  "_location": "/vue-full-calendar",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/vue-full-calendar-1.0.0.tgz_1482414192124_0.35042475163936615"
+  },
+  "_npmUser": {
+    "name": "brockreece",
+    "email": "brockreece@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-full-calendar",
+    "scope": null,
+    "escapedName": "vue-full-calendar",
+    "name": "vue-full-calendar",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-full-calendar/-/vue-full-calendar-1.0.0.tgz",
+  "_shasum": "c76cabcff08386c8146c159acc46e6a37a5d7085",
+  "_shrinkwrap": null,
+  "_spec": "vue-full-calendar",
+  "_where": "/Applications/MAMP/htdocs/bettergoals.dev",
+  "author": {
+    "name": "Brock Reece"
+  },
+  "browserify": {
+    "transform": [
+      "vueify"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/CroudSupport/vue-fullcalendar/issues"
+  },
+  "dependencies": {
+    "fullcalendar": "^2.9.0"
+  },
+  "description": "FullCalendar wrapper for vue",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c76cabcff08386c8146c159acc46e6a37a5d7085",
+    "tarball": "https://registry.npmjs.org/vue-full-calendar/-/vue-full-calendar-1.0.0.tgz"
+  },
+  "gitHead": "61b77bf9544a7b02947ab194e91dc8ea81282cef",
+  "homepage": "https://github.com/CroudSupport/vue-fullcalendar#readme",
+  "keywords": [
+    "vue",
+    "fullcalendar",
+    "calendar",
+    "js"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "brockreece",
+      "email": "brockreece@gmail.com"
+    }
+  ],
+  "name": "vue-full-calendar",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CroudSupport/vue-fullcalendar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
